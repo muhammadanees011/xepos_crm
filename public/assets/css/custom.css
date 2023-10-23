@@ -1,0 +1,105 @@
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+
+/*# sourceMappingURL=custom.css.map */
+
+.admin-login-page {
+    background-color: #36454F !important;
+}
+
+.main-sidebar,
+.navbar {
+    background-color: #36454F !important;
+}
+
+.main-sidebar{
+}
+
+
+.theme-white .navbar .nav-link .feather {
+    /* color: white !important; */
+}
+
+.btn-indigo {
+    background-color: #161140 !important;
+    color: white !important;
+}
+
+.header-logo {
+    height: 50px !important;
+}
+.sidebar-menu{
+}
+
+.sidebar-menu>li>a {
+    color: white !important;
+    font-size: 12px;
+}
+
+.sidebar-menu>li.active>a {
+    color: #FDA50F !important;
+    /* background-color:#FDA50F !important; */
+    border-radius:25px  !important;
+}
+
+.sidebar-menu>li{
+    margin-top:-16px;
+}
+
+a.active.router-link-exact-active.nav-link
+{
+    color: white !important;
+    height: 34px;
+
+}
+
+
+.sidebar-menu li a:hover {
+
+    color: #FDA50F !important;
+    background-color:transparent !important;
+    border-radius:25px ;
+
+}
+
+.main-sidebar .sidebar-menu li.active{
+    color: white !important;
+    background-color:#FDA50F !important;
+    /* border-radius:25px ; */
+}
+
+.router-link-active, 
+.router-link-exact-active
+{
+    color: white !important;
+    background-color:#FDA50F !important;
+    /* border-radius:25px ; */
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.main-content{
+    background-color:white;
+}
+.modal-content{
+    background-color:#FFFFFF !important;
+}
+
+a.dropdown-item:focus,
+a.dropdown-item:hover,
+a.dropdown-item:active,
+a.dropdown-item.active {
+    background-color: #FF1D1D !important;
+    color: white !important;
+}
+
+.page-link:active {
+    background-color: #161140 !important;
+    border-color: #161140 !important;
+}
+
+.page-item.active .page-link {
+    color: #fff;
+    background-color: #161140 !important;
+    border-color: #161140 !important;
+}
