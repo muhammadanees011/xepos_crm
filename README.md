@@ -1,10 +1,10 @@
 I have done this task with Vuejs+Vite on the front-end and laravel on the back-end.
 
-path to vuejs front-end : Vuejs/vue.
+path to vuejs front-end : cd vue.
 
-path to STORE is VueJs/vue/store/index.js
+path to STORE is vue/store/index.js
 
-path to ROUTER is VueJs/vue/router/index.js
+path to ROUTER is vue/router/index.js
 
 To Run project use following commands. Backend /VueJs>
 
